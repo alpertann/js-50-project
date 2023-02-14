@@ -28,26 +28,26 @@
 | `12` | **[Random Choice Picker]()**                |                                | `Tamamlandı`    |
 | `13` | **[Animated Navigation]()**                  |                                                     | `Tamamlandı`    |
 | `14` | **[Artan Sayaç]()**                                  |                                                     | `Tamamlandı`    |
-| `15` | **[Random Image Feed](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/16_Random_Image_Feed)**                      |                                            | `Tamamlandı`    |
-| `16` | **[Loading Ekranı](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/17_Loading_Ekrani)**                            |                                                      | `Tamamlandı`    |
-| `17` | **[Auto Text Effect](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/18_Auto_Text_Effect)**                        |                                                       | `Tamamlandı`    |
-| `18` | **[Notes](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/19_Notes)**                                              |                                       | `Tamamlandı`    |
-| `19` | **[Quiz App](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/20_Quiz)**                                            |                                                                | `Tamamlandı`    |
-| `20` | **[Drawing App](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/21_Drawing_App)**                                  |                                               | `Tamamlandı`    |
-| `21` | **[Pokedex](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/22_Pokedex)**                                          |                         | `Tamamlandı`    |
-| `22` | **[Verify Account UI](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/23_Verify_Account)**                         |                                                      | `Tamamlandı`    |
-| `23` | **[ Sürükle ve Bırak](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/24_SurukleBirak)**                           |                                            | `Tamamlandı`    |
-| `24` | **[Password Strength](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/25_Password_Strength)**                      |                                       | `Tamamlandı`    |
-| `25` | **[Mobile Tab Navigation](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/26_Mobile_Tab_Navigation)**              |                                     | `Tamamlandı`    |
-| `26` | **[Image Carousel](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/27_Image_Carousel)**                            |                         | `Tamamlandı`    |
-| `27` | **[Bildirim](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/28_Bildirim)**                                        |                                 | `Tamamlandı`    |
-| `28` | **[Button Effect](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/29_Button_effect)**                              |                   | `Tamamlandı`    |
-| `29` | **[Hoverboard](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/30_Hoverboard)**                                    |          | `Tamamlandı`    |
-| `30` | **[Box Switcher](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/31_Box_Switcher)**                                |                              | `Tamamlandı`    |
-| `31` | **[Sticky Navbar](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/32_Stick_Navbar)**                               |                                                            | `Tamamlandı`    |
-| `32` | **[Feedback UI](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/33_Feedback_UI)**                                  |                                                              | `Tamamlandı`    |
-| `33` | **[Movie App](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/34_Movie_App)**                                      |                               | `Tamamlandı`    |
-| `34` | **[GitHub Profil Kart](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/35_GitHub_Profil_Kart)**                    |                                                | `Tamamlandı`    |
+| `15` | **[]()**                      |                                            | `Tamamlandı`    |
+| `16` | **[Loading Ekranı]()**                            |                                                      | `Tamamlandı`    |
+| `17` | **[Auto Text Effect]()**                        |                                                       | `Tamamlandı`    |
+| `18` | **[Notes]()**                                              |                                       | `Tamamlandı`    |
+| `19` | **[Quiz App]()**                                            |                                                                | `Tamamlandı`    |
+| `20` | **[Drawing App]()**                                  |                                               | `Tamamlandı`    |
+| `21` | **[Pokedex]()**                                          |                         | `Tamamlandı`    |
+| `22` | **[]()**                         |                                                      | `Tamamlandı`    |
+| `23` | **[]()**                           |                                            | `Tamamlandı`    |
+| `24` | **[]()**                      |                                       | `Tamamlandı`    |
+| `25` | **[]()**              |                                     | `Tamamlandı`    |
+| `26` | **[]()**                            |                         | `Tamamlandı`    |
+| `27` | **[]()**                                        |                                 | `Tamamlandı`    |
+| `28` | **[]()**                              |                   | `Tamamlandı`    |
+| `29` | **[]()**                                    |          | `Tamamlandı`    |
+| `30` | **[]()**                                |                              | `Tamamlandı`    |
+| `31` | **[]()**                               |                                                            | `Tamamlandı`    |
+| `32` | **[]()**                                  |                                                              | `Tamamlandı`    |
+| `33` | **[]()**                                      |                               | `Tamamlandı`    |
+| `34` | **[]()**                    |                                                | `Tamamlandı`    |
 | `35` | **[]()**                                                                                                                            |                                                                                                                        | `Hazırlanıyor`  |
 | `36` | **[]()**                                                                                                                            |                                                                                                                            | `Gelecek Proje` |
 | `36` | **[]()**                                                                                                                            |                                                                                                                            | `Gelecek Proje` |
@@ -64,9 +64,3 @@
 | `47` | **[]()**                                                                                                                            |                                                                                                                             | `Gelecek Proje` |
 | `48` | **[]()**                                                                                                                            |                                                                                                                              | `Gelecek Proje` |
 | `49` | **[]()**                                                                                                                            |                                                                                                                               | `Gelecek Proje` |
-
-<hr/>
-
-- ###### Brad Traversy ve Florin Pop eğitmenlerine ait 50 Projects In 50 Days - HTML, CSS & JavaScript kursunun kendi çalışma filtremden geçirilmiş halidir.
-
-<hr/>
