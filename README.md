@@ -11,7 +11,7 @@
 
 <h2 align="center"> Projeler </h2>
 
-| Sıra | Kaynak Kod                                                                                                                          | YouTube Bağlantı                                                                                                                              
+| Sıra | Kaynak Kod                                                                                                                          | Durum                                                                                                                             
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------
 | `00` | **[Genişleyen Kartlar](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/01_Genisleyen_Kartlar)**                    |    | `Tamamlandı`    |
 | `01` | **[İlerleme Adımları](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/02_Ilerleme_Adimlari)**                      |    | `Tamamlandı`    |
