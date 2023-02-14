@@ -13,21 +13,21 @@
 
 | Sıra | Kaynak Kod                                                                                                                          | Durum                                                                                                                             
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------
-| `00` | **[Genişleyen Kartlar](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/01_Genisleyen_Kartlar)**                    |    | `Tamamlandı`    |
-| `01` | **[İlerleme Adımları](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/02_Ilerleme_Adimlari)**                      |    | `Tamamlandı`    |
-| `02` | **[Animasyonlu Bir Şekilde Dönen Menü](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/03_Donen_Menu_Animasyonu)** |    |  `Tamamlandı`    |
-| `03` | **[Gizli Arama Widget'ı](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/04_Gizli_Arama_Widget)**                  |    | `Tamamlandı`    |
-| `04` | **[Bulanık Loading Ekranı](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/05_Bulanik_Loading_Ekrani)**            |    | `Tamamlandı`    |
-| `05` | **[Scroll Animasyonu](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/06_Scroll_Animasyonu)**                      |                                             | `Tamamlandı`    |
-| `06` | **[Bölünmüş Açılış Sayfası](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/07_Bolunmus_Acilis_Sayfasi)**          |                       | `Tamamlandı`    |
-| `07` | **[Dalga Animasyonu](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/08_Dalga_Animasyonu)**                        |                                                | `Tamamlandı`    |
-| `08` | **[Ses Stream Deck](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/09_Ses_Stream_Deck)**                          |                                                  | `Tamamlandı`    |
-| `09` | **[Dad Jokes](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/10_Dad_Jokes)**                                      |                                         | `Tamamlandı`    |
-| `10` | **[Event keyCodes](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/11_Event_KeyCodes)**                            |                                         | `Tamamlandı`    |
-| `11` | **[S.S.S. Collapse](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/12_FAQ_Collapse)**                             |                                 | `Tamamlandı`    |
-| `12` | **[Random Choice Picker](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/13_Random_Choice_Picker)**                |                                | `Tamamlandı`    |
-| `13` | **[Animated Navigation](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/14_Animated_Navigation)**                  |                                                     | `Tamamlandı`    |
-| `14` | **[Artan Sayaç](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/15_Artan_Sayac)**                                  |                                                     | `Tamamlandı`    |
+| `00` | **[Genişleyen Kartlar]()**                    |    | `Tamamlandı`    |
+| `01` | **[İlerleme Adımları]()**                      |    | `Tamamlandı`    |
+| `02` | **[Animasyonlu Bir Şekilde Dönen Menü]()** |    |  `Tamamlandı`    |
+| `03` | **[Gizli Arama Widget'ı]()**                  |    | `Tamamlandı`    |
+| `04` | **[Bulanık Loading Ekranı]()**            |    | `Tamamlandı`    |
+| `05` | **[Scroll Animasyonu]()**                      |                                             | `Tamamlandı`    |
+| `06` | **[Bölünmüş Açılış Sayfası]()**          |                       | `Tamamlandı`    |
+| `07` | **[Dalga Animasyonu]()**                        |                                                | `Tamamlandı`    |
+| `08` | **[Ses Stream Deck]()**                          |                                                  | `Tamamlandı`    |
+| `09` | **[Dad Jokes]()**                                      |                                         | `Tamamlandı`    |
+| `10` | **[Event keyCodes]()**                            |                                         | `Tamamlandı`    |
+| `11` | **[S.S.S. Collapse]()**                             |                                 | `Tamamlandı`    |
+| `12` | **[Random Choice Picker]()**                |                                | `Tamamlandı`    |
+| `13` | **[Animated Navigation]()**                  |                                                     | `Tamamlandı`    |
+| `14` | **[Artan Sayaç]()**                                  |                                                     | `Tamamlandı`    |
 | `15` | **[Random Image Feed](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/16_Random_Image_Feed)**                      |                                            | `Tamamlandı`    |
 | `16` | **[Loading Ekranı](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/17_Loading_Ekrani)**                            |                                                      | `Tamamlandı`    |
 | `17` | **[Auto Text Effect](https://github.com/ozantekin/50Days50Projects/tree/main/Projects/18_Auto_Text_Effect)**                        |                                                       | `Tamamlandı`    |
