@@ -13,7 +13,7 @@
 
 | Sıra | Kaynak Kod                                                                                                                          | Durum                                                                                                                             
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------
-| `00` | **[Genişleyen Kartlar](https://github.com/alpertann/js-50-project/tree/master/expanding-cards)**                    |    | `Tamamlandı`    |
+| `00` | **[Genişleyen Kartlar](https://github.com/alpertann/js-50-project/tree/master/expanding-cards)**                    |    | `:heavy_check_mark:	`    |
 | `01` | **[İlerleme Adımları]()**                      |    | `Tamamlandı`    |
 | `02` | **[Animasyonlu Bir Şekilde Dönen Menü]()** |    |  `Tamamlandı`    |
 | `03` | **[Gizli Arama Widget'ı]()**                  |    | `Tamamlandı`    |
