@@ -13,7 +13,7 @@
 
 | Sıra | Kaynak Kod                                                                                                                          | Durum                                                                                                                             
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------
-| `00` | **[Genişleyen Kartlar]()**                    |    | `Tamamlandı`    |
+| `00` | **[Genişleyen Kartlar](https://github.com/alpertann/js-50-project/tree/master/expanding-cards)**                    |    | `Tamamlandı`    |
 | `01` | **[İlerleme Adımları]()**                      |    | `Tamamlandı`    |
 | `02` | **[Animasyonlu Bir Şekilde Dönen Menü]()** |    |  `Tamamlandı`    |
 | `03` | **[Gizli Arama Widget'ı]()**                  |    | `Tamamlandı`    |
@@ -29,12 +29,12 @@
 | `13` | **[Animated Navigation]()**                  |                                                     | `Tamamlandı`    |
 | `14` | **[Artan Sayaç]()**                                  |                                                     | `Tamamlandı`    |
 | `15` | **[]()**                      |                                            | `Tamamlandı`    |
-| `16` | **[Loading Ekranı]()**                            |                                                      | `Tamamlandı`    |
-| `17` | **[Auto Text Effect]()**                        |                                                       | `Tamamlandı`    |
-| `18` | **[Notes]()**                                              |                                       | `Tamamlandı`    |
-| `19` | **[Quiz App]()**                                            |                                                                | `Tamamlandı`    |
-| `20` | **[Drawing App]()**                                  |                                               | `Tamamlandı`    |
-| `21` | **[Pokedex]()**                                          |                         | `Tamamlandı`    |
+| `16` | **[]()**                            |                                                      | `Tamamlandı`    |
+| `17` | **[]()**                        |                                                       | `Tamamlandı`    |
+| `18` | **[]()**                                              |                                       | `Tamamlandı`    |
+| `19` | **[]()**                                            |                                                                | `Tamamlandı`    |
+| `20` | **[]()**                                  |                                               | `Tamamlandı`    |
+| `21` | **[]()**                                          |                         | `Tamamlandı`    |
 | `22` | **[]()**                         |                                                      | `Tamamlandı`    |
 | `23` | **[]()**                           |                                            | `Tamamlandı`    |
 | `24` | **[]()**                      |                                       | `Tamamlandı`    |
@@ -64,3 +64,4 @@
 | `47` | **[]()**                                                                                                                            |                                                                                                                             | `Gelecek Proje` |
 | `48` | **[]()**                                                                                                                            |                                                                                                                              | `Gelecek Proje` |
 | `49` | **[]()**                                                                                                                            |                                                                                                                               | `Gelecek Proje` |
+| `50` | **[]()**                                                                                                                            |                                                                                                                             | `Gelecek Proje` |
