@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&family=PT+Serif:ital,wght@0,700;1,400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #fff;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'PT Serif', serif;
+}
+
+.main-container {
+    max-width: 1000px;
+    margin: 0px auto;
+}
+
+h1 {
+    text-align: center;
+    margin: 50px 0px 30px;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+.joke {
+    border: 1px solid #9fa4a8;
+    background: transparent;
+    border-radius: 10px;
+    padding: 25px 30px;
+    margin: 30px 10px;
+    position: relative;
+    transition: all 0.5s ease-in;
+    overflow: hidden;
+    box-shadow: 0 2px 4px;
+}
+
+.joke-title {
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+.joke-text {
+    font-size: 20px;
+    margin-bottom: 20px;
+    display: none;
+}
+
+.joke.active .joke-text{
+    display: block;
+}
+
+i{
+    position: absolute;
+    bottom: 20px;
+    right: 500px;
+}
