@@ -14,7 +14,7 @@
 | Sıra | Kaynak Kod                                                                                                                          | Durum                                                                                                                             
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------
 | `01` | **[Genişleyen Kartlar](https://github.com/alpertann/js-50-project/tree/master/expanding-cards)**                                    |   **Tamamlandı**    
-| `02` | **[Şakamatik](https://github.com/alpertann/js-50-project/tree/master/sakamatik)** |                                                 |   | `Tamamlandı`    |
+| `02` | **[Şakamatik](https://github.com/alpertann/js-50-project/tree/master/sakamatik)** |                                                 |   **:white_check_mark:**
 | `03` | **[Gizli Arama Widget'ı]()**                                                                                                        |   | `Tamamlandı`    |
 | `04` | **[Bulanık Loading Ekranı]()**                                                                                                      |   | `Tamamlandı`    |
 | `05` | **[Scroll Animasyonu]()**                                                                                                           |   | `Tamamlandı`    |
