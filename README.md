@@ -14,4 +14,5 @@
 | Sıra | Kaynak Kod                                                                                                                          | Durum                                                                                                                             
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------
 | `01` | **[Genişleyen Kartlar](https://github.com/alpertann/js-50-project/tree/master/expanding-cards)**                                    |   **Tamamlandı**    
-| `02` | **[Şakamatik](https://github.com/alpertann/js-50-project/tree/master/sakamatik)** |                                                 |   **Tamamlandı**
+| `02` | **[Şakamatik](https://github.com/alpertann/js-50-project/tree/master/sakamatik)**                                                   |   **Tamamlandı**
+| `01` | **[]()**                                    |   ****    
