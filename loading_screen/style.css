@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Mynerve&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Mynerve', cursive;
+}
+
+.loading-text {
+    font-size: 90px;
+    color: #f0f8ff;
+}
+
+.bg {
+    background: no-repeat center/cover url('https://images3.alphacoders.com/874/thumb-1920-874252.jpg');
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    filter: blur(0px);
+}
