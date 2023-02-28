@@ -15,4 +15,4 @@
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------
 | `01` | **[Genişleyen Kartlar](https://github.com/alpertann/js-50-project/tree/master/expanding-cards)**                                    |   **Tamamlandı**    
 | `02` | **[Şakamatik](https://github.com/alpertann/js-50-project/tree/master/sakamatik)**                                                   |   **Tamamlandı**
-| `01` | **[]()**                                    |   ****    
+| `01` | **[Bulanık Loading Ekranı](https://github.com/alpertann/js-50-project/tree/master/loading_screen)**                                    |   **Tamamlandı**    
